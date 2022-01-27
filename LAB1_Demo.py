@@ -1,42 +1,42 @@
 #Create Class
 class Employee:
 	def __init__(self, name, position, address, tel):
-        self.Name = name
-    	self.Position = position
-    	self.Address = address
-    	self.Tel = tel
+		self.Name = name
+		self.Position = position
+		self.Address = address
+		self.Tel = tel
  
 class Customer:
 	def __init__(self, name, address, tel, discount):
-    	self.Name = name
-    	self.Address = address
-    	self.Tel = tel
-    	self.Discount = discount
+		self.Name = name
+		self.Address = address
+		self.Tel = tel
+		self.Discount = discount
  
 class Cake:
 	def __init__(self, amount, price):
-    	self.Amount = amount
-    	self.Price = price
+		self.Amount = amount
+		self.Price = price
  
 class Brownie:
 	def __init__(self, amount, price):
-    	self.Amount = amount
-    	self.Price = price
+		self.Amount = amount
+		self.Price = price
  
 class Cookie:
 	def __init__(self, amount, price):
-    	self.Amount = amount
-    	self.Price = price
+		self.Amount = amount
+		self.Price = price
  
 class Bun:
 	def __init__(self, amount, price):
-    	self.Amount = amount
-    	self.Price = price
+		self.Amount = amount
+		self.Price = price
  
 class Macarons:
 	def __init__(self, amount, price):
-    	self.Amount = amount
-    	self.Price = price
+		self.Amount = amount
+		self.Price = price
 
 
 #-------------Instance & Class-------------
