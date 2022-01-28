@@ -1,2 +1,2 @@
-# G2-2_Lab1
+# G2-2
 Dolce Bakery System
